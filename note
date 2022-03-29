@@ -1,0 +1,12 @@
+create a new repository on the command line
+
+git --version
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Sirelowkey/Jiji.git
+git push -u origin main
+
